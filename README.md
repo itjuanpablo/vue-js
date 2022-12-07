@@ -1,2 +1,2 @@
 # vue-js
-Firts project with vue.js
+First project with vue.js
